@@ -1,10 +1,10 @@
-package external.GSAPI;
+package ayds.ak3.discogs.GSAPI;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import external.Album;
+import ayds.ak3.discogs.Album;
 
 class GSAPIToAlbumResolver implements ExternalServiceToAlbumResolver {
 

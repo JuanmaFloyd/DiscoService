@@ -1,4 +1,4 @@
-package external.GSAPI;
+package ayds.ak3.discogs.GSAPI;
 
 
 import retrofit2.Call;

@@ -1,4 +1,4 @@
-package external;
+package ayds.ak3.discogs;
 
 import java.io.IOException;
 

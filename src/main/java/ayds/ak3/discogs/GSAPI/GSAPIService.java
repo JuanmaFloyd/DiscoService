@@ -1,9 +1,9 @@
-package external.GSAPI;
+package ayds.ak3.discogs.GSAPI;
 
 import java.io.IOException;
-import external.Album;
-import external.ExternalAlbumService;
-import external.ExternalSong;
+import ayds.ak3.discogs.Album;
+import ayds.ak3.discogs.ExternalAlbumService;
+import ayds.ak3.discogs.ExternalSong;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;

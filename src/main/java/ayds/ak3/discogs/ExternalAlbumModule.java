@@ -1,6 +1,6 @@
-package external;
+package ayds.ak3.discogs;
 
-import external.GSAPI.GSAPIModule;
+import ayds.ak3.discogs.GSAPI.GSAPIModule;
 
 public class ExternalAlbumModule {
     private static ExternalAlbumModule instance;

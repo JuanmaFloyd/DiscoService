@@ -1,6 +1,6 @@
-package external.GSAPI;
+package ayds.ak3.discogs.GSAPI;
 
-import external.Album;
+import ayds.ak3.discogs.Album;
 
 public interface ExternalServiceToAlbumResolver {
     Album getAlbumFromExternal(String callResponse);

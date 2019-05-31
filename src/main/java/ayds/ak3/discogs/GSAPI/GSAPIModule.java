@@ -1,6 +1,6 @@
-package external.GSAPI;
+package ayds.ak3.discogs.GSAPI;
 
-import external.ExternalAlbumService;
+import ayds.ak3.discogs.ExternalAlbumService;
 
 public class GSAPIModule {
     private static GSAPIModule instance;
