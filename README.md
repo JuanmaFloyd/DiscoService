@@ -37,4 +37,3 @@ ExternalSong es un objeto que contiene el nombre de la cancion (songName), el no
 ExternalSong (var songName:String?, var artistName:String?, var albumName:String?, var url:String?)
 ```
 
-
